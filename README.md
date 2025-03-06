@@ -43,3 +43,12 @@ Unity | Making Game, UI, Unity Action and Bug fix
 |**GameMakers 9th**|Team Member|2024.08. ~ 2025.01.18||
 
 <br>
+
+### :computer: Skills
+|Category|Tech|
+|:---:|:---:|
+|**Language**||
+|**Game**||
+|**Cloud & Infra**||
+|**Front End**||
+|**Etc**||
