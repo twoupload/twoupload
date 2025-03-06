@@ -36,8 +36,8 @@ Unity | Making Game, UI, Unity Action and Bug fix
 ### :star2: Activities
 |Organization/Team|Position|Duration|Main activities|
 |:---:|:---:|:---:|:---:|
-|**TAB**|한국외국어대학교 AI 교육|2024.01.19|2023-2학기(2학년 2학기) TAB 학회 팀 게임 스터디 수료|
-|**수료증**|한국외국어대학교 AI 교육|2024.08.06|2024-1학기(3학년 1학기) TAB 학회 팀 게임 스터디 수료|
-|**2nd Price<br>(최우수상)**|GameMakers|2024.11.09 ~ 2024.11.10|게임메이커스 게임잼 Hackathon|
-|**수료증**|한국외국어대학교 AI 교육|2024.12.27|2024-2학기(3학년 2학기) TAB 학회 팀 개임 스터디 수료|
-|**2nd Price<br>(우수상)**|GameMakers|2025.01.18|게임메이커스 9th 최종발표회|
+|**TAB**|Member|2020 ~ Present||
+|**SUSC**|Member|2023||
+|**SW/AI University Global Talent Training Program**|2024.03 ~ 2024.04||
+|**GameMakers 9th**|Team Member|2024.08. ~ 2025.01.18||
+
