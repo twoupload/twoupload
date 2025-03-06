@@ -38,6 +38,6 @@ Unity | Making Game, UI, Unity Action and Bug fix
 |:---:|:---:|:---:|:---:|
 |**TAB**|Member|2020 ~ Present||
 |**SUSC**|Member|2023||
-|**SW/AI University Global Talent Training Program**|2024.03 ~ 2024.04||
+|**SW/AI University Global Talent Training Program**|Member|2024.03 ~ 2024.04||
 |**GameMakers 9th**|Team Member|2024.08. ~ 2025.01.18||
 
