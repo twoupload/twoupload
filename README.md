@@ -56,3 +56,4 @@ Unity | Making Game, UI, Unity DOTween Action and Bug fix
 ---
 
 ### :muscle: Stats
+[![twoupload's GitHub stats](https://github-readme-stats.vercel.app/api?username=twoupload)](https://github.com/twoupload/github-readme-stats)
