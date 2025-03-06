@@ -9,9 +9,10 @@
 > **:mortar_board: Hankuk University of Foreign Studies (HUFS)**\
 2020.03. ~ Present\
 Major : Computer Engineering\
-**:pencil: GameMakers 9th (as Programmer)**\
+
+> **:pencil: GameMakers 9th (as Programmer)**\
 2024.08. ~ 2025.02.13\
-Unity | Making Game, UI, Unity Action and Bug fix
+Unity | Making Game, UI, Unity DOTween Action and Bug fix
 
 ---
 
