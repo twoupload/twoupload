@@ -8,7 +8,7 @@
 ### :black_nib: Career
 > **:mortar_board: Hankuk University of Foreign Studies (HUFS)**\
 2020.03. ~ Present\
-Major : Computer Engineering\
+Major : Computer Engineering
 
 > **:pencil: GameMakers 9th (as Programmer)**\
 2024.08. ~ 2025.02.13\
@@ -27,32 +27,30 @@ Unity | Making Game, UI, Unity DOTween Action and Bug fix
 ### :trophy: Awards
 |Award|Issued by|Date|Details|
 |:---:|:---:|:---:|:---:|
-|**수료증**|한국외국어대학교 AI 교육|2024.01.19|2023-2학기(2학년 2학기) TAB 학회 팀 게임 스터디 수료|
-|**수료증**|한국외국어대학교 AI 교육|2024.08.06|2024-1학기(3학년 1학기) TAB 학회 팀 게임 스터디 수료|
-|**2nd Price<br>(최우수상)**|GameMakers|2024.11.09 ~ 2024.11.10|게임메이커스 게임잼 Hackathon|
-|**수료증**|한국외국어대학교 AI 교육|2024.12.27|2024-2학기(3학년 2학기) TAB 학회 팀 개임 스터디 수료|
 |**2nd Price<br>(우수상)**|GameMakers|2025.01.18|게임메이커스 9th 최종발표회|
+|**2nd Price<br>(최우수상)**|GameMakers|2024.11.09 ~ 2024.11.10|게임메이커스 게임잼 Hackathon|
+
 
 <br>
 
 ### :star2: Activities
 |Organization/Team|Position|Duration|Main activities|
 |:---:|:---:|:---:|:---:|
-|**TAB**|Member|2020 ~ Present||
-|**SUSC**|Member|2023||
-|**SW/AI University Global Talent Training Program**|Member|2024.03 ~ 2024.04||
-|**GameMakers 9th**|Team Member|2024.08. ~ 2025.01.18||
+|**GameMakers 9th**|Team Member|2024.08. ~ 2025.01.18|Making Unity game and prticipating Game Hackerthon|
+|**SW/AI University Global Talent Training Program**|Member|2024.03 ~ 2024.04|Training programs in Nanyang Technical University, National University of Singapore, The ventures, VMO, VNG Group, Grab (Singapore, Vietnam)|
+|**Seasonal University Study & Communication(SUSC)**|Member|2023|Godot programming study and Algorithm study|
+|**Teamwork, Ambition, Brilliance(TAB) Activities**|Member|2020 ~ Present|게임스터디 및 학회 스터디(2학년 2학기, 3학년 1학기, 3학년 2학기) 수료 (**수료증발급**)|
+
 
 <br>
 
 ### :computer: Skills
-|Category|Tech|
-|:---:|:---:|
-|**Language**||
-|**Game**||
-|**Cloud & Infra**||
-|**Front End**||
-|**Etc**||
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/Godot Engine-478CBF?style=for-the-badge&logo=Godot Engine&logoColor=black"> 
+
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=black">
+
 ---
 
 ### :muscle: Stats
