@@ -27,8 +27,8 @@ Unity | Making Game, UI, Unity DOTween Action and Bug fix
 ### :trophy: Awards
 |Award|Issued by|Date|Details|
 |:---:|:---:|:---:|:---:|
-|**2nd Price<br>(우수상)**|GameMakers|2025.01.18|게임메이커스 9th 최종발표회|
-|**2nd Price<br>(최우수상)**|GameMakers|2024.11.09 ~ 2024.11.10|게임메이커스 게임잼 Hackathon|
+|**2nd Prize<br>(우수상)**|GameMakers|2025.01.18|게임메이커스 9th 최종발표회|
+|**2nd Prize<br>(최우수상)**|GameMakers|2024.11.09 ~ 2024.11.10|게임메이커스 게임잼 Hackathon|
 
 
 <br>
